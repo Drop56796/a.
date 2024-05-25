@@ -6,5 +6,5 @@ achievementGiver({
     Title = "Yourself and you said",
     Desc = "Why'd do you hide and Survive me",
     Reason = "Survive and escape the Trauma",
-    Image = "rbxassetid://11278624160"
+    Image = "rbxassetid://3457898957"
 })
